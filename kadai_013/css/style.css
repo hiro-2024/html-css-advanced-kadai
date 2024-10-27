@@ -34,7 +34,7 @@ PC用のスタイル
     text-align: right;
     font-size: 14px;
     padding-top: 15px;
-    font-display: none;
+    
   }
 
   /* ナビゲーションのリンクの装飾設定 */
@@ -63,7 +63,6 @@ PC用のスタイル
   #menu-sp, #nav-sp {
     display: none;
 }
-
 }
 
 
