@@ -96,11 +96,11 @@ PC用のスタイル
   z-index: 100;
 }
 
-#nav-sp ul {
+#nav-sp  {
   padding-left: 0;
 }
 
-#nav-sp li {
+#nav-sp  {
   list-style: none;
 }
 
@@ -137,13 +137,13 @@ text-decoration: underline;
 color: #ffffff;
 }
 
-#nav-sp > .menu {
+#nav-sp .menu {
 text-decoration: none;
 display: block;
 margin: 0 20px 0 20px;
 height: 44px;
 font-size: 16px;
-background-image: url("images/arrow.png");
+background-image: url("../images/arrow.png");
 background-repeat: no-repeat;
 background-position: right top;
 }
